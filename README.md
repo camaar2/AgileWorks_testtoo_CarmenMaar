@@ -1,2 +1,2 @@
-# AgileWorks_test
+# Kood baseerub Vue ja Vite front-endi peal ning Swagger näitab InMemoryDatabase-s olevaid andmeid. Run-ides programmi, avaneb back-end. Peale seda avada terminal, siseneda testtoo folderisse (cd testtoo), sealt edasi oleks vaja kasutada pnpm run dev. Selleks oleks vaja allalaadida pnpm(https://pnpm.io/installation). Nüüd peaks töötama front-end võttes informatsiooni InMemoryDatabase-st. Lisasin ka lihtsad ApiTestid omakorda folderisse.
 
