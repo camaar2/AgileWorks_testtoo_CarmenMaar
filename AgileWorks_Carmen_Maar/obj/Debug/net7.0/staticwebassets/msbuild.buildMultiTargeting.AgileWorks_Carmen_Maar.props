@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/AgileWorks_Carmen_Maar.props" />
+</Project>
