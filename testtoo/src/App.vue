@@ -9,7 +9,7 @@
         </div>
         <div class="form-group">
           <label for="deadline" class="label">Lahendamise tähtaeg:</label>
-          <input type="text" id="deadline" v-model="newIssue.deadline" required placeholder="pp.kk.aaaa, tt:mm" class="input-field">
+          <input type="datetime-local" id="deadline" v-model="newIssue.deadline" required placeholder="pp.kk.aaaa, tt:mm" class="input-field">
         </div>
         <button type="submit" class="submit-button">Lisa Pöördumine</button>
       </form>
